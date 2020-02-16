@@ -7,7 +7,7 @@ package mainlibrary;
 
 /**
  *
- * @author bikash
+ * @author siva
  */
 public class About extends javax.swing.JFrame {
 
